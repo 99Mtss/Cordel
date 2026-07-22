@@ -52,6 +52,7 @@ header > p > a{
 footer{
     background-color: black;
     text-align: center;
+    padding: 30px;
 }
 footer a{
     color: white;
