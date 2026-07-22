@@ -46,20 +46,23 @@ header > p > a{
     text-decoration: none;
     font-weight: bolder;
 }
+header > p > a:hover{
+    text-decoration:underline;
+}
 
 
 /* CONFIGURAÇÃO DE RODA PÉ */
 footer{
     background-color: black;
     text-align: center;
-    padding: 30px;
+    padding: 15px;
 }
 footer a{
     color: white;
     text-decoration: none;
     font-weight: bolder;
 }
- header a, footer a:hover{
+footer a:hover{
     text-decoration:underline;
 }
 
